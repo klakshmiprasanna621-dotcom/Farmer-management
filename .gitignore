@@ -1,0 +1,17 @@
+# Local configuration
+.env
+
+# Temporary password/hash generation files
+hash_password.php
+hash_demo.php
+
+# XAMPP / local files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
